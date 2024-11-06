@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  #bottle {
+    width: 100%;
+    height: 50vh;
+    transition: transform 2s ease-out;
+  }
+  
+  #spinButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
