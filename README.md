@@ -9,7 +9,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://chriskript.io](https://chriskript.io)
+[https://chriskript.io](https://chriskript.github.io/spin-the-bottle-game/)
 
   
   
@@ -26,13 +26,13 @@ Here're some of the project's best features:
 
 <p>1. Clone the repository:</p>
 
-```
+```bash
 git clone https://github.com/chriskript/spin-the-bottle.git
 ```
 
 <p>2. Change into project directory</p>
 
-```
+```bash
 cd spin-the-bottle
 ```
 
